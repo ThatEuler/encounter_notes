@@ -38,4 +38,4 @@
 - Shadow resistance helps. Especially for `Pistol Barrage`.
 - Interrupt `Cursed Bullets`.
 - The most important mechanic is be aware of is `Pistol Barrage` which is cast after summoning ghouls.  Move out of the AoE cone.
-- For extra style, knock back the adds into the Pistol Barrage. 
+- For style points, knock back the adds into the Pistol Barrage.
