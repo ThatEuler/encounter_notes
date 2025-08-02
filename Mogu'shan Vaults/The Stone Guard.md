@@ -1,5 +1,9 @@
 ## Stone Guards
 
+```
+ability.name = "Jasper Overload" or ability.name = "Jade Overload" or ability.name = "Cobalt Overload"
+```
+
 - 2 strats.
   - stack strat.  stack all boss together and use defensives to survive overload.  The advantage here is that with cleave the boss dies faster when all 3 are together.  The disadvantage is that all 3 overloads go off at the same time.
   - traditional strat. move bosses so that overload goes off when that bosses petrification is up.
