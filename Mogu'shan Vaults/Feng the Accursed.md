@@ -48,7 +48,7 @@ Reversal: Lightning Fists
 
 ability.name = "Nullification Barrier" or ability.name = "Shroud of Reversal" or abilty.name = "Reversal: Lightning Fists" 
 
-ability.id IN (115730, 115911, 115817, 116018, 116157)
+ability.id IN (115730, 115911, 115817, 116018, 116157, 116040)
 
 ability.id IN (115730, 115911, 115817)
 
