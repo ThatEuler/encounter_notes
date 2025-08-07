@@ -12,3 +12,5 @@
 - The tank without voodoo doll should taunt the boss.  Voodoo doll prevents people from entering the spirit world and Voodoo Doll copies 70% of their damage received to all other Voodoo Dolls in the raid.
 
 > Healers should focus on healing the 3 people in the spirit realm (themselves included) as much as possible during the 30 seconds in there, even if they are at full HP. All healing that healers receive grants them a substantial mana regen buff for a moderate duration once they leave, and all healing that DPS receive grants them a substantial DPS increasing buff. The potency of these buffs scales with how much healing that person received in the spirit realm.
+
+<img width="397" height="415" alt="Screenshot 2025-08-07 at 7 46 55 AM" src="https://github.com/user-attachments/assets/ed9b6d05-0f27-4654-b17f-e92c9f0d476f" />
