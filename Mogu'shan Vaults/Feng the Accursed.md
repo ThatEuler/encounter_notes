@@ -38,3 +38,18 @@
 
 Heroic Only
 
+
+# Spells
+
+```
+Nullification Barrier
+Shroud of Reversal
+Reversal: Lightning Fists
+
+ability.name = "Nullification Barrier" or ability.name = "Shroud of Reversal" or abilty.name = "Reversal: Lightning Fists" 
+
+ability.id IN (115730, 115911, 115817, 116040)
+actor.name in (Dkbloody, Iblamecalvin)
+
+source.name = "Dkbloody" or target.name = "Dkbloody" or source.name = "Iblamecalvin" or target.name = "Iblamecalvin"
+```
