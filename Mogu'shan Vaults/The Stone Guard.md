@@ -19,3 +19,8 @@ stack strat reports
 - Wp6nh4fyVbBKMg9j
 
 
+```
+# Watch spirit shell and Overload events during log replay
+source.name = "Drbrad" or ability.id in (115844, 115840, 115842)
+
+```
